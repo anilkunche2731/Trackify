@@ -94,16 +94,8 @@ MONGO_URL = <MongoDB connection string>
 - Back-End: Node.js, Express.js
 - Database: MongoDB
 
-## Contributing
-
-We welcome contributions from the community to enhance Trackify. Feel free to submit bug reports, feature requests, or pull requests through the GitHub repository.
-
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
-
 ## Contact
 
-For any questions or inquiries, please reach out to the development team at [rishavchanda0@gmail.com]
+For any questions or inquiries, please reach out to the development team at [kuncheanil62@gmail.com.com]
 
 Enjoy using Trackify and stay productive!
