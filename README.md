@@ -51,10 +51,6 @@ Trackify is a web-based platform built to simplify task management and boost wor
 1. Install [Docker](https://docs.docker.com/get-docker/) and [Docker Compose](https://docs.docker.com/compose/install/).
 2. Create a [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) account and set up a cluster.
 
-### Clone the repository
-
-1. Clone the repository: `git clone https://github.com/rishavchanda/Trackify.git`
-
 ### Configure the client
 
 1. Navigate to client folder: `cd client`
