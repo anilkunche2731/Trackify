@@ -1,7 +1,7 @@
 
 # Trackify
 
-Trackify is a web application designed to streamline task management and enhance productivity in the workplace. It provides a user-friendly interface for employers to keep track of their employees' daily work activities and empowers employees to log their tasks efficiently.
+Trackify is a web-based platform built to simplify task management and boost workplace productivity. It offers an intuitive interface for employers to monitor their team's daily activities while enabling employees to record and manage their tasks with ease.
 #### Web Link: https://trackify.duckdns.org
 | Admin Credentials | Employee Credentials |
 |-----------------------------------------|-----------------------------------------|
