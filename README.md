@@ -2,7 +2,7 @@
 # Trackify
 
 Trackify is a web-based platform built to simplify task management and boost workplace productivity. It offers an intuitive interface for employers to monitor their team's daily activities while enabling employees to record and manage their tasks with ease.
-#### Web Link: https://trackify.duckdns.org
+
 | Admin Credentials | Employee Credentials |
 |-----------------------------------------|-----------------------------------------|
 | Email: testadmin@gmail.com |  Email: testemployee@gmail.com |
