@@ -8,6 +8,7 @@ import { createError } from "../error.js";
 dotenv.config();
 
 // eslint-disable-next-line import/prefer-default-export, consistent-return
+//todo woek this later
 export const EmployeeRegister = async (req, res, next) => {
   try {
     const {
